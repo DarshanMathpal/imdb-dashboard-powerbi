@@ -15,6 +15,7 @@ It presents movie insights through interactive visualizations, KPI cards, and fi
 ---
 ## Dashboard Demo
 
+https://github.com/user-attachments/assets/bdc135ba-3e00-4304-889e-e0ef856e6a47
 
 ---
 ## Model View
