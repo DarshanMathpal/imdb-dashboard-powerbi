@@ -66,13 +66,5 @@ The project uses an IMDb movie dataset containing movie-level information such a
 * A small number of movies receive the highest share of audience votes.
 
 ---
-## Files Included
-
-* IMDb_Dashboard.pbix
-* dashboard.png
-* model_view.png
-* demo_video.mp4 (optional)
-
----
 ⭐ If you found this project interesting, feel free to explore the repository.
 
